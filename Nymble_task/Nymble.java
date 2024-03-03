@@ -167,7 +167,7 @@ enum PassengerType {
 }
 
 //Main class
-public class Main {
+public class Nymble {
     public static void main(String[] args) {
         //activities
         Activity activity1 = new Activity("Hiking", "Enjoy hiking in the mountains", 50.0, 10);
